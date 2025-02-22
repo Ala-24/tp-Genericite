@@ -1,0 +1,7 @@
+com\mycompany\tp\genericite\CompteEpargne.class
+com\mycompany\tp\genericite\Securisable.class
+com\mycompany\tp\genericite\TpGenericite.class
+com\mycompany\tp\genericite\Compte.class
+com\mycompany\tp\genericite\AccesInterditException.class
+com\mycompany\tp\genericite\CompteCourant.class
+com\mycompany\tp\genericite\CompteCourantSecurise.class
